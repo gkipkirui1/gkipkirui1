@@ -19,7 +19,6 @@ Accomplished Audit Manager with a wealth of experience in audit and revenue assu
 [![My Skills](https://skillicons.dev/icons?i=github)](github)
 [![My Skills](https://skillicons.dev/icons?i=git)](git)
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](Tensorflow)
-[![My Skills](https://skillicons.dev/icons?i=pytorch)](Pytorch)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
 [![My Skills](https://skillicons.dev/icons?i=sklearn)](sklearn)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](sqlite)

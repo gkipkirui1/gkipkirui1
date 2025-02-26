@@ -4,7 +4,7 @@
 
 **Data Scientist | Internal Audit Manager | Revenue Assurance**
 
-Accomplished Audit Manager with a wealth of experience in audit and revenue assurance, audit automation, and risk management. Proven expertise in refining audit processes, identifying significant income leakages, and ensuring compliance with regulatory frameworks. Leveraging advanced data analytics tools and programming languages to enhance audit efficiency and effectiveness, driving impactful results.
+I an an accomplished Audit Manager with a wealth of experience in audit and revenue assurance, audit automation, and risk management. Proven expertise in refining audit processes, identifying significant income leakages, and ensuring compliance with regulatory frameworks. Leveraging advanced data analytics tools and programming languages to enhance audit efficiency and effectiveness, driving impactful results.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbert-kipkirui-cheruiyot-82387425/) 
 

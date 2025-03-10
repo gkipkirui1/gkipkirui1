@@ -2,7 +2,7 @@
 
 ## Intro
 
-**Data Scientist | Internal Audit Manager | Revenue Assurance**
+**Data Scientist | Internal Audit Manager | Revenue Assurance Expert**
 
 I an an accomplished Audit Manager with a wealth of experience in audit and revenue assurance, audit automation, and risk management. Proven expertise in refining audit processes, identifying significant income leakages, and ensuring compliance with regulatory frameworks. Leveraging advanced data analytics tools and programming languages to enhance audit efficiency and effectiveness, driving impactful results.
 
